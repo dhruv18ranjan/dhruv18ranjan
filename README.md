@@ -14,14 +14,14 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+<img align="right" height="300px" alt="GIF" src="[https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fduckly.com%2Fblog%2Fhow-to-start-pair-programming%2F&psig=AOvVaw3wR78dRn0WnQrhRQNhxLgt&ust=1665346600565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCilta50foCFQAAAAAdAAAAABAE)" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
  👯 I’m looking to collaborate with other Developers :wink: <br>
  🥅 looking Contribute to Open Source projects<br>
-- 📬 How to reach me: [Let's get in touch!][linkedin]<br>
-🧗 trying to make it as much as possible 
+ 📬 How to reach me: [Let's get in touch!][linkedin]<br>
+ 🧗 trying to make it as much as possible 
 
 <br>
 
