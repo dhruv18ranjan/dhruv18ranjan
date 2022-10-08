@@ -21,7 +21,7 @@
  👯 I’m looking to collaborate with other Developers :wink: <br>
  🥅 looking to Contribute to Open Source projects<br>
  📬 How to reach me: [Let's get in touch!][linkedin]<br>
- 🧗 trying to make it as much as possible 
+ 🧗 trying to make it as much as possible <br>
  ----------------LAZY PROGRAMMER---------------  :'(
 
 <br>
