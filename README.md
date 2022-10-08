@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="[https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fduckly.com%2Fblog%2Fhow-to-start-pair-programming%2F&psig=AOvVaw3wR78dRn0WnQrhRQNhxLgt&ust=1665346600565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCilta50foCFQAAAAAdAAAAABAE)" />
+<img align="right" height="300px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacker-animated-gif-stickers&psig=AOvVaw3wR78dRn0WnQrhRQNhxLgt&ust=1665346600565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCilta50foCFQAAAAAdAAAAABAc" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
