@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" width="400px" height="300px" alt="GIF" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
+<img align="right" width="300px" height="200px" alt="GIF" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
