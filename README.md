@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8" />
+<img align="right" height="300px" alt="GIF" src="[https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8](https://c.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif)" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
