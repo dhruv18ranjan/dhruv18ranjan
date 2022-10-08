@@ -19,9 +19,10 @@
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
  👯 I’m looking to collaborate with other Developers :wink: <br>
- 🥅 looking Contribute to Open Source projects<br>
+ 🥅 looking to Contribute to Open Source projects<br>
  📬 How to reach me: [Let's get in touch!][linkedin]<br>
  🧗 trying to make it as much as possible 
+ ----------------LAZY PROGRAMMER---------------  :'(
 
 <br>
 
