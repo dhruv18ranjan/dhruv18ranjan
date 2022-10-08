@@ -2,7 +2,7 @@
 <!-- <img align="centre" src="https://media.giphy.com/media/2juvZoQ3oLa4U/giphy.gif" /> -->
 
 <p>
-  <h1 align="center"><b>Hey there 🙌 </b></h1>
+  <h1 align="left"><b>Hey there 🙌 </b></h1>
 </p>
 
 
