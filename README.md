@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="https://www.analyticsmania.com/wp-content/uploads/2018/03/Monkey-and-JavaScript.gif" />
+<img align="right" width="400px" height="300px" alt="GIF" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
