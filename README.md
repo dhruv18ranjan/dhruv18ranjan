@@ -16,13 +16,12 @@
 
 <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-
-<!-- - 🔭 I’m currently working on my college projects :grin: -->
-<!-- - 🌱 I’m currently learning full Stack Web Development. -->
-<!-- - 👯 I’m looking to collaborate with other Developers :wink: -->
-- 🥅 looking Contribute to Open Source projects
+ 🔭 I’m currently working on my college projects :grin: 
+ 🌱 I’m currently learning full Stack Web Development.
+ 👯 I’m looking to collaborate with other Developers :wink: 
+ 🥅 looking Contribute to Open Source projects
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-<!-- - 🧗 trying to make it as much as possible -->
+🧗 trying to make it as much as possible 
 
 <br>
 
