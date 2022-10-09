@@ -14,7 +14,7 @@
 
 <br>
 
-<div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" width="300px" height="200px" alt="GIF" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
