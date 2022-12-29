@@ -11,10 +11,9 @@
 <p align="center">
 <br>
 &nbsp;
-
 <br>
 
-<img align="right" width="300px" height="200px" alt="GIF" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif" />
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
  🔭 I’m currently working on my college projects :grin: <br>
  🌱 I’m currently learning full Stack Web Development.<br>
