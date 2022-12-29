@@ -13,7 +13,7 @@
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **MERN STACK DEVELOPEMENT**
 - 👯 I’m looking to collaborate with other Developers 😉
-- 💬 looking to Contribute to Open Source projects
+- 💬 I'm looking to contribute to open source projects
 -📬  How to reach me: [Let's get in touch!][linkedin]<br>
 - ⚡ 🧗 trying to make it as much as possible
 
