@@ -14,7 +14,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **MERN STACK DEVELOPEMENT**
 - 👯 I’m looking to collaborate with other Developers 😉
 - 💬 I'm looking to contribute to open source projects <br>
--📬  How to reach me: [Let's get in touch!][linkedin]<br>
+- 📬  How to reach me: [Let's get in touch!][linkedin]<br>
 - ⚡ 🧗 trying to make it as much as possible
 
 <br/>
