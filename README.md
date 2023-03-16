@@ -51,6 +51,8 @@
 <!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /> -->
 <br>
 <br>
+## Watch my contribution graph got eaten by a snake 🐍
+![snake gif](https://github.com/dhruv18ranjan/dhruv18ranjan/blob/output/github-contribution-grid-snake.gif)
 <br>
 <br>
 
