@@ -53,8 +53,7 @@
 <br>
 <br>
 
-<br>
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv18ranjan&show_icons=true&locale=en&layout=compact" alt="dhruv18ranjan" /></p>
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=dhruv18ranjan&show_icons=true&locale=en" alt="dhruv18ranjan" /></p>
 <br>
