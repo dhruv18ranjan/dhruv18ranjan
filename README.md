@@ -54,8 +54,9 @@
 <br>
 
 <br> <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv18ranjan&show_icons=true&locale=en&layout=compact" alt="dhruv18ranjan" /></p>
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=dhruv18ranjan&show_icons=true&locale=en" alt="dhruv18ranjan" /></p>
+![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=dhruv18ranjan&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv18ranjan&theme=tokyonight" alt="mystreak"/>
+![Dhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv18ranjan&theme=tokyonight&layout=compact)
 
 <!--
 
